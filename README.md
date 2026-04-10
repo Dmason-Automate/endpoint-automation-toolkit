@@ -18,3 +18,8 @@ The goal of this project is to reduce manual effort, improve deployment consiste
 
 ## Notes
 All examples are generalized and do not contain company-specific or sensitive information.
+
+## Included Scripts
+
+### Device-Cleanup.ps1
+Performs basic Windows endpoint cleanup tasks such as removing temporary files, optionally clearing the Recycle Bin, and logging completed actions.
