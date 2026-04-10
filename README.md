@@ -23,3 +23,6 @@ All examples are generalized and do not contain company-specific or sensitive in
 
 ### Device-Cleanup.ps1
 Performs basic Windows endpoint cleanup tasks such as removing temporary files, optionally clearing the Recycle Bin, and logging completed actions.
+
+## Overview
+This project demonstrates practical endpoint automation techniques used to improve efficiency, reduce manual effort, and standardize IT support processes.
